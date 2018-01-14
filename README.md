@@ -1,6 +1,11 @@
 # CT-build-tools
 intended to hold bash scripts to set up CourseTrack development environment
 
+# COMPATABILITY
+currently being developed on MacOS in UNIX environment with VisualStudio2017 for mac. Using Mono 5.4.0.201 .NET Runtime 
+
+stretch goal to develop project to Windows 10 operating systems
+
 # INSTRUCTIONS
 1. Open bash terminal and navigate to a location to clone
 2. Create directory to hold all project files
