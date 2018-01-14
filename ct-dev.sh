@@ -1,5 +1,5 @@
 # pull application
-if [ ! -d "ct-dev" ]; then
+if [ ! -d "CourseTrack" ]; then
 
     cd ..
 	git clone https://github.com/aniehuser/CourseTrack.git
